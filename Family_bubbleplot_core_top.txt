@@ -1,0 +1,28 @@
+Group	Phylum	Class	Clade	Rel_abund	number_SV
+Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiaceae	0.06512123	29
+Bacteria	Bacteroidetes	Bacteroidia	Chitinophagaceae	0.015307527	15
+Fungi	Fungi	Ascomycota	Sordariomycetes	0.055587982	14
+Fungi	Fungi	Chytridiomycota	Chytridiomycetes	0.049821045	11
+Fungi	Fungi	Ascomycota	Dothideomycetes	0.013894242	6
+Stramenopiles	Stramenopiles	Oomycota	Peronosporales	0.070932217	5
+Rhizaria	Cercozoa	Filosa-Thecofilosea	Rhogostoma-lineage	0.008960593	5
+Bacteria	Bacteroidetes	Bacteroidia	Microscillaceae	0.004735422	5
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacteraceae	0.004434411	5
+Fungi	Fungi	Basidiomycota	Tremellomycetes	0.022843823	3
+Rhizaria	Cercozoa	Filosa-Sarcomonadea	Allapsidae	0.017014482	3
+Rhizaria	Cercozoa	Filosa-Sarcomonadea	Sandonidae	0.009353376	3
+Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Pyrinomonadaceae	0.001868473	3
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriaceae	0.023754199	2
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadaceae	0.005880733	2
+Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellaceae	0.004298589	2
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadaceae	0.003399225	2
+Bacteria	Firmicutes	Bacilli	Bacillaceae	0.003160619	2
+Rhizaria	Cercozoa	Filosa-Granofilosea	Limnofilidae	0.002375053	2
+Archaea	Thaumarchaeota	Nitrososphaeria	Nitrososphaeraceae	0.002253914	2
+Fungi	Fungi	Ascomycota	Eurotiomycetes	0.002004295	2
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineaceae	0.001872144	2
+Bacteria	Proteobacteria	Gammaproteobacteria	Steroidobacteraceae	0.001159995	2
+Rhizaria	Cercozoa	Filosa-Sarcomonadea	Cercomonadidae	0.001152653	2
+Rhizaria	Cercozoa	Filosa-Imbricatea	Spongomonadidae	0.001079236	2
+Bacteria	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadaceae	0.00071949	2
+Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosomonadaceae	0.000712149	2
