@@ -1,0 +1,32 @@
+Group	Phylum	Class	Clade	Rel_abund	number_SV
+Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiaceae	0.102725621	251
+Stramenopiles	Stramenopiles	Oomycota	Peronosporales	0.086063543	36
+Fungi	Fungi	Ascomycota	Sordariomycetes	0.072598792	90
+Fungi	Fungi	Chytridiomycota	Chytridiomycetes	0.064838573	110
+Fungi	Fungi	Mucoromycota	Mucoromycotina	0.045606887	21
+Bacteria	Bacteroidetes	Bacteroidia	Chitinophagaceae	0.041565259	296
+Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriaceae	0.039865646	79
+Rhizaria	Cercozoa	Filosa-Thecofilosea	Rhogostoma-lineage	0.028408861	62
+Fungi	Fungi	Basidiomycota	Tremellomycetes	0.025255584	12
+Fungi	Fungi	Basidiomycota	Exobasidiomycetes	0.02422407	4
+Rhizaria	Cercozoa	Filosa-Sarcomonadea	Allapsidae	0.019374851	39
+Fungi	Fungi	Ascomycota	Dothideomycetes	0.018897638	41
+Rhizaria	Cercozoa	Filosa-Sarcomonadea	Sandonidae	0.016573977	71
+Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadaceae	0.014008039	37
+Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacteraceae	0.012877411	50
+Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadaceae	0.012389186	17
+Bacteria	Bacteroidetes	Bacteroidia	Microscillaceae	0.009724134	73
+Bacteria	Bacteroidetes	Bacteroidia	Hymenobacteraceae	0.008593506	27
+Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriaceae	0.00776389	13
+Bacteria	Firmicutes	Bacilli	Bacillaceae	0.007382119	35
+Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadaceae	0.00709212	73
+Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriaceae	0.006930602	46
+Bacteria	Proteobacteria	Gammaproteobacteria	Nitrosomonadaceae	0.0067544	47
+Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellaceae	0.006225795	44
+Fungi	Fungi	Ascomycota	Eurotiomycetes	0.006207441	19
+Bacteria	Proteobacteria	Gammaproteobacteria	Moraxellaceae	0.005939467	8
+Stramenopiles	Ochrophyta	Bacillariophyta	Raphid-pennate	0.005829341	18
+Rhizaria	Cercozoa	Filosa-Granofilosea	Limnofilidae	0.005462254	23
+Rhizaria	Cercozoa	Filosa-Sarcomonadea	Cercomonadidae	0.005377824	46
+Bacteria	Chloroflexi	Anaerolineae	Anaerolineaceae	0.005348457	38
+Choanoflagellida	Choanoflagellida	Choanoflagellatea	Salpingoecidae (Group C2)	0.005183268	7
