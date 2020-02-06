@@ -1,0 +1,327 @@
+ID	Rep	Compartment	Type	Soils	Genotype	Replicat	seq	SVs	Rarefied_Richness	Huit_sols	Huit_geno	Continent	Genotype_Inscription_Year
+170	E66c	Endosphere	cDNA	CAM1	AP	3	632	20	19	8_sols	No	Africa	1998
+11	E65	Endosphere	DNA	CAM1	AP	2	1546	9	8	8_sols	No	Africa	1998
+10	E64	Endosphere	DNA	CAM1	AP	1	97	7	NA	8_sols	No	Africa	1998
+12	E66	Endosphere	DNA	CAM1	AP	3	145	10	NA	8_sols	No	Africa	1998
+131	R66c	Rhizosphere	cDNA	CAM1	AP	3	7288	233	198	8_sols	No	Africa	1998
+130	R65c	Rhizosphere	cDNA	CAM1	AP	2	7506	145	123	8_sols	No	Africa	1998
+129	R64c	Rhizosphere	cDNA	CAM1	AP	1	0	0	NA	8_sols	No	Africa	1998
+286	R65	Rhizosphere	DNA	CAM1	AP	2	9467	389	299	8_sols	No	Africa	1998
+285	R64	Rhizosphere	DNA	CAM1	AP	1	8332	341	281	8_sols	No	Africa	1998
+287	R66	Rhizosphere	DNA	CAM1	AP	3	9069	270	220	8_sols	No	Africa	1998
+169	E56c	Endosphere	cDNA	CAM2	AP	2	1527	59	49	8_sols	No	Africa	1998
+3	E57	Endosphere	DNA	CAM2	AP	3	482	12	12	8_sols	No	Africa	1998
+2	E56	Endosphere	DNA	CAM2	AP	2	295	8	8	8_sols	No	Africa	1998
+1	E55	Endosphere	DNA	CAM2	AP	1	152	9	NA	8_sols	No	Africa	1998
+121	R56c	Rhizosphere	cDNA	CAM2	AP	2	12678	342	263	8_sols	No	Africa	1998
+122	R57c	Rhizosphere	cDNA	CAM2	AP	3	9082	161	131	8_sols	No	Africa	1998
+120	R55c	Rhizosphere	cDNA	CAM2	AP	1	3540	127	121	8_sols	No	Africa	1998
+278	R57	Rhizosphere	DNA	CAM2	AP	3	12181	275	206	8_sols	No	Africa	1998
+276	R55	Rhizosphere	DNA	CAM2	AP	1	11795	238	167	8_sols	No	Africa	1998
+277	R56	Rhizosphere	DNA	CAM2	AP	2	9966	209	159	8_sols	No	Africa	1998
+138	E1c	Endosphere	cDNA	FR1	AP	1	848	30	28	8_sols	No	Europe	1998
+331	E1	Endosphere	DNA	FR1	AP	1	43	3	NA	8_sols	No	Europe	1998
+332	E2	Endosphere	DNA	FR1	AP	2	155	9	NA	8_sols	No	Europe	1998
+333	E3	Endosphere	DNA	FR1	AP	3	63	5	NA	8_sols	No	Europe	1998
+68	R3c	Rhizosphere	cDNA	FR1	AP	3	11660	385	274	8_sols	No	Europe	1998
+67	R2c	Rhizosphere	cDNA	FR1	AP	2	11176	351	270	8_sols	No	Europe	1998
+66	R1c	Rhizosphere	cDNA	FR1	AP	1	7588	306	267	8_sols	No	Europe	1998
+222	R1	Rhizosphere	DNA	FR1	AP	1	12748	387	281	8_sols	No	Europe	1998
+223	R2	Rhizosphere	DNA	FR1	AP	2	560	36	NA	8_sols	No	Europe	1998
+224	R3	Rhizosphere	DNA	FR1	AP	3	641	24	NA	8_sols	No	Europe	1998
+144	E12c	Endosphere	cDNA	FR2	AP	3	1108	55	47	8_sols	No	Europe	1998
+143	E10c	Endosphere	cDNA	FR2	AP	1	411	18	18	8_sols	No	Europe	1998
+340	E10	Endosphere	DNA	FR2	AP	1	173	11	NA	8_sols	No	Europe	1998
+341	E11	Endosphere	DNA	FR2	AP	2	55	4	NA	8_sols	No	Europe	1998
+342	E12	Endosphere	DNA	FR2	AP	3	120	9	NA	8_sols	No	Europe	1998
+75	R10c	Rhizosphere	cDNA	FR2	AP	1	14021	288	197	8_sols	No	Europe	1998
+77	R12c	Rhizosphere	cDNA	FR2	AP	3	12783	256	179	8_sols	No	Europe	1998
+76	R11c	Rhizosphere	cDNA	FR2	AP	2	2227	70	69	8_sols	No	Europe	1998
+233	R12	Rhizosphere	DNA	FR2	AP	3	17733	467	287	8_sols	8_geno	Europe	1998
+232	R11	Rhizosphere	DNA	FR2	AP	2	14874	424	283	8_sols	8_geno	Europe	1998
+231	R10	Rhizosphere	DNA	FR2	AP	1	13513	373	267	8_sols	8_geno	Europe	1998
+152	E20c	Endosphere	cDNA	IT1	AP	2	1449	59	47	8_sols	No	Europe	1998
+153	E21c	Endosphere	cDNA	IT1	AP	3	1520	51	45	8_sols	No	Europe	1998
+151	E19c	Endosphere	cDNA	IT1	AP	1	1202	49	43	8_sols	No	Europe	1998
+349	E19	Endosphere	DNA	IT1	AP	1	39	2	NA	8_sols	No	Europe	1998
+350	E20	Endosphere	DNA	IT1	AP	2	86	3	NA	8_sols	No	Europe	1998
+351	E21	Endosphere	DNA	IT1	AP	3	154	9	NA	8_sols	No	Europe	1998
+85	R20c	Rhizosphere	cDNA	IT1	AP	2	12501	254	191	8_sols	No	Europe	1998
+86	R21c	Rhizosphere	cDNA	IT1	AP	3	2481	75	74	8_sols	No	Europe	1998
+84	R19c	Rhizosphere	cDNA	IT1	AP	1	605	30	NA	8_sols	No	Europe	1998
+240	R19	Rhizosphere	DNA	IT1	AP	1	14444	344	236	8_sols	No	Europe	1998
+241	R20	Rhizosphere	DNA	IT1	AP	2	3560	162	154	8_sols	No	Europe	1998
+242	R21	Rhizosphere	DNA	IT1	AP	3	1684	97	96	8_sols	No	Europe	1998
+159	E30c	Endosphere	cDNA	IT2	AP	3	2081	70	57	8_sols	No	Europe	1998
+158	E29c	Endosphere	cDNA	IT2	AP	2	921	47	43	8_sols	No	Europe	1998
+157	E28c	Endosphere	cDNA	IT2	AP	1	756	44	42	8_sols	No	Europe	1998
+359	E29	Endosphere	DNA	IT2	AP	2	260	15	15	8_sols	No	Europe	1998
+358	E28	Endosphere	DNA	IT2	AP	1	3276	10	6	8_sols	No	Europe	1998
+360	E30	Endosphere	DNA	IT2	AP	3	149	10	NA	8_sols	No	Europe	1998
+93	R28c	Rhizosphere	cDNA	IT2	AP	1	11340	446	334	8_sols	No	Europe	1998
+94	R29c	Rhizosphere	cDNA	IT2	AP	2	11757	358	261	8_sols	No	Europe	1998
+95	R30c	Rhizosphere	cDNA	IT2	AP	3	16600	318	215	8_sols	No	Europe	1998
+251	R30	Rhizosphere	DNA	IT2	AP	3	8287	310	256	8_sols	No	Europe	1998
+249	R28	Rhizosphere	DNA	IT2	AP	1	3829	137	129	8_sols	No	Europe	1998
+250	R29	Rhizosphere	DNA	IT2	AP	2	3132	66	64	8_sols	No	Europe	1998
+367	E37	Endosphere	DNA	SEN1	AP	1	56	3	NA	8_sols	No	Africa	1998
+368	E38	Endosphere	DNA	SEN1	AP	2	112	7	NA	8_sols	No	Africa	1998
+369	E39	Endosphere	DNA	SEN1	AP	3	48	1	NA	8_sols	No	Africa	1998
+104	R39c	Rhizosphere	cDNA	SEN1	AP	3	6129	250	230	8_sols	No	Africa	1998
+102	R37c	Rhizosphere	cDNA	SEN1	AP	1	9040	211	172	8_sols	No	Africa	1998
+103	R38c	Rhizosphere	cDNA	SEN1	AP	2	7326	163	133	8_sols	No	Africa	1998
+258	R37	Rhizosphere	DNA	SEN1	AP	1	3447	72	67	8_sols	No	Africa	1998
+259	R38	Rhizosphere	DNA	SEN1	AP	2	3046	48	44	8_sols	No	Africa	1998
+260	R39	Rhizosphere	DNA	SEN1	AP	3	1018	22	22	8_sols	No	Africa	1998
+376	E46	Endosphere	DNA	SEN2	AP	1	133	6	NA	8_sols	No	Africa	1998
+377	E47	Endosphere	DNA	SEN2	AP	2	98	2	NA	8_sols	No	Africa	1998
+378	E48	Endosphere	DNA	SEN2	AP	3	105	6	NA	8_sols	No	Africa	1998
+112	R47c	Rhizosphere	cDNA	SEN2	AP	2	8359	209	179	8_sols	No	Africa	1998
+113	R48c	Rhizosphere	cDNA	SEN2	AP	3	1523	76	75	8_sols	No	Africa	1998
+111	R46c	Rhizosphere	cDNA	SEN2	AP	1	3065	50	47	8_sols	No	Africa	1998
+268	R47	Rhizosphere	DNA	SEN2	AP	2	7819	327	261	8_sols	No	Africa	1998
+267	R46	Rhizosphere	DNA	SEN2	AP	1	7764	300	243	8_sols	No	Africa	1998
+269	R48	Rhizosphere	DNA	SEN2	AP	3	10002	240	179	8_sols	No	Africa	1998
+25	E79	Endosphere	DNA	FR2	BG	1	210	10	10	No	No	Europe	
+26	E80	Endosphere	DNA	FR2	BG	2	131	8	NA	No	No	Europe	
+27	E81	Endosphere	DNA	FR2	BG	3	135	8	NA	No	No	Europe	
+300	R79	Rhizosphere	DNA	FR2	BG	1	12891	436	288	No	No	Europe	
+301	R80	Rhizosphere	DNA	FR2	BG	2	1707	84	84	No	No	Europe	
+302	R81	Rhizosphere	DNA	FR2	BG	3	1447	79	79	No	No	Europe	
+35	E89	Endosphere	DNA	IT2	BG	2	564	15	14	No	No	Europe	
+34	E88	Endosphere	DNA	IT2	BG	1	131	7	NA	No	No	Europe	
+36	E90	Endosphere	DNA	IT2	BG	3	189	9	NA	No	No	Europe	
+309	R88	Rhizosphere	DNA	IT2	BG	1	12402	420	288	No	No	Europe	
+310	R89	Rhizosphere	DNA	IT2	BG	2	9989	371	276	No	No	Europe	
+18	E72	Endosphere	DNA	CAM1	BM	3	630	15	15	8_sols	No	Africa	2007
+16	E70	Endosphere	DNA	CAM1	BM	1	466	15	13	8_sols	No	Africa	2007
+17	E71	Endosphere	DNA	CAM1	BM	2	138	6	NA	8_sols	No	Africa	2007
+137	R72c	Rhizosphere	cDNA	CAM1	BM	3	11487	341	273	8_sols	No	Africa	2007
+136	R71c	Rhizosphere	cDNA	CAM1	BM	2	4109	147	139	8_sols	No	Africa	2007
+135	R70c	Rhizosphere	cDNA	CAM1	BM	1	0	0	NA	8_sols	No	Africa	2007
+292	R71	Rhizosphere	DNA	CAM1	BM	2	9286	356	291	8_sols	No	Africa	2007
+293	R72	Rhizosphere	DNA	CAM1	BM	3	9242	362	285	8_sols	No	Africa	2007
+291	R70	Rhizosphere	DNA	CAM1	BM	1	6351	227	197	8_sols	No	Africa	2007
+9	E63	Endosphere	DNA	CAM2	BM	3	4840	41	24	8_sols	No	Africa	2007
+8	E62	Endosphere	DNA	CAM2	BM	2	336	16	16	8_sols	No	Africa	2007
+7	E61	Endosphere	DNA	CAM2	BM	1	433	11	10	8_sols	No	Africa	2007
+128	R63c	Rhizosphere	cDNA	CAM2	BM	3	9836	183	154	8_sols	No	Africa	2007
+127	R62c	Rhizosphere	cDNA	CAM2	BM	2	2312	83	81	8_sols	No	Africa	2007
+126	R61c	Rhizosphere	cDNA	CAM2	BM	1	0	0	NA	8_sols	No	Africa	2007
+282	R61	Rhizosphere	DNA	CAM2	BM	1	12663	333	253	8_sols	No	Africa	2007
+284	R63	Rhizosphere	DNA	CAM2	BM	3	11130	286	220	8_sols	No	Africa	2007
+283	R62	Rhizosphere	DNA	CAM2	BM	2	9846	240	196	8_sols	No	Africa	2007
+142	E9c	Endosphere	cDNA	FR1	BM	3	932	35	29	8_sols	No	Europe	2007
+337	E7	Endosphere	DNA	FR1	BM	1	33	3	NA	8_sols	No	Europe	2007
+338	E8	Endosphere	DNA	FR1	BM	2	30	4	NA	8_sols	No	Europe	2007
+339	E9	Endosphere	DNA	FR1	BM	3	136	11	NA	8_sols	No	Europe	2007
+72	R7c	Rhizosphere	cDNA	FR1	BM	1	13430	456	329	8_sols	No	Europe	2007
+73	R8c	Rhizosphere	cDNA	FR1	BM	2	13319	408	290	8_sols	No	Europe	2007
+74	R9c	Rhizosphere	cDNA	FR1	BM	3	7691	360	285	8_sols	No	Europe	2007
+230	R9	Rhizosphere	DNA	FR1	BM	3	14850	531	361	8_sols	No	Europe	2007
+229	R8	Rhizosphere	DNA	FR1	BM	2	12978	458	320	8_sols	No	Europe	2007
+228	R7	Rhizosphere	DNA	FR1	BM	1	1817	74	72	8_sols	No	Europe	2007
+150	E18c	Endosphere	cDNA	FR2	BM	3	616	35	33	8_sols	No	Europe	2007
+149	E17c	Endosphere	cDNA	FR2	BM	2	545	27	25	8_sols	No	Europe	2007
+148	E16c	Endosphere	cDNA	FR2	BM	1	381	22	22	8_sols	No	Europe	2007
+348	E18	Endosphere	DNA	FR2	BM	3	442	17	17	8_sols	No	Europe	2007
+346	E16	Endosphere	DNA	FR2	BM	1	9	2	NA	8_sols	No	Europe	2007
+347	E17	Endosphere	DNA	FR2	BM	2	118	7	NA	8_sols	No	Europe	2007
+83	R18c	Rhizosphere	cDNA	FR2	BM	3	12781	358	251	8_sols	No	Europe	2007
+82	R17c	Rhizosphere	cDNA	FR2	BM	2	15667	313	209	8_sols	No	Europe	2007
+81	R16c	Rhizosphere	cDNA	FR2	BM	1	1757	38	38	8_sols	No	Europe	2007
+237	R16	Rhizosphere	DNA	FR2	BM	1	14798	358	243	8_sols	8_geno	Europe	2007
+239	R18	Rhizosphere	DNA	FR2	BM	3	4410	214	195	8_sols	8_geno	Europe	2007
+238	R17	Rhizosphere	DNA	FR2	BM	2	3910	167	151	8_sols	8_geno	Europe	2007
+156	E26c	Endosphere	cDNA	IT1	BM	2	875	34	29	8_sols	No	Europe	2007
+355	E25	Endosphere	DNA	IT1	BM	1	0	0	NA	8_sols	No	Europe	2007
+356	E26	Endosphere	DNA	IT1	BM	2	36	4	NA	8_sols	No	Europe	2007
+357	E27	Endosphere	DNA	IT1	BM	3	167	7	NA	8_sols	No	Europe	2007
+91	R26c	Rhizosphere	cDNA	IT1	BM	2	12580	390	282	8_sols	No	Europe	2007
+92	R27c	Rhizosphere	cDNA	IT1	BM	3	13955	367	246	8_sols	No	Europe	2007
+90	R25c	Rhizosphere	cDNA	IT1	BM	1	12345	313	238	8_sols	No	Europe	2007
+246	R25	Rhizosphere	DNA	IT1	BM	1	3033	87	83	8_sols	No	Europe	2007
+248	R27	Rhizosphere	DNA	IT1	BM	3	4343	62	55	8_sols	No	Europe	2007
+247	R26	Rhizosphere	DNA	IT1	BM	2	803	25	NA	8_sols	No	Europe	2007
+163	E34c	Endosphere	cDNA	IT2	BM	1	923	47	42	8_sols	No	Europe	2007
+164	E36c	Endosphere	cDNA	IT2	BM	3	964	44	40	8_sols	No	Europe	2007
+365	E35	Endosphere	DNA	IT2	BM	2	939	12	12	8_sols	No	Europe	2007
+364	E34	Endosphere	DNA	IT2	BM	1	148	10	NA	8_sols	No	Europe	2007
+366	E36	Endosphere	DNA	IT2	BM	3	121	6	NA	8_sols	No	Europe	2007
+100	R35c	Rhizosphere	cDNA	IT2	BM	2	12020	346	267	8_sols	No	Europe	2007
+99	R34c	Rhizosphere	cDNA	IT2	BM	1	10656	297	218	8_sols	No	Europe	2007
+101	R36c	Rhizosphere	cDNA	IT2	BM	3	10742	242	193	8_sols	No	Europe	2007
+256	R35	Rhizosphere	DNA	IT2	BM	2	13290	520	378	8_sols	No	Europe	2007
+255	R34	Rhizosphere	DNA	IT2	BM	1	10992	432	328	8_sols	No	Europe	2007
+257	R36	Rhizosphere	DNA	IT2	BM	3	12977	393	275	8_sols	No	Europe	2007
+166	E43c	Endosphere	cDNA	SEN1	BM	1	1192	37	30	8_sols	No	Africa	2007
+168	E45c	Endosphere	cDNA	SEN1	BM	3	3003	48	30	8_sols	No	Africa	2007
+167	E44c	Endosphere	cDNA	SEN1	BM	2	130	6	NA	8_sols	No	Africa	2007
+373	E43	Endosphere	DNA	SEN1	BM	1	469	9	9	8_sols	No	Africa	2007
+374	E44	Endosphere	DNA	SEN1	BM	2	78	3	NA	8_sols	No	Africa	2007
+375	E45	Endosphere	DNA	SEN1	BM	3	127	5	NA	8_sols	No	Africa	2007
+109	R44c	Rhizosphere	cDNA	SEN1	BM	2	7371	235	214	8_sols	No	Africa	2007
+108	R43c	Rhizosphere	cDNA	SEN1	BM	1	4163	191	176	8_sols	No	Africa	2007
+110	R45c	Rhizosphere	cDNA	SEN1	BM	3	2504	79	76	8_sols	No	Africa	2007
+265	R44	Rhizosphere	DNA	SEN1	BM	2	4241	146	138	8_sols	No	Africa	2007
+264	R43	Rhizosphere	DNA	SEN1	BM	1	1093	44	44	8_sols	No	Africa	2007
+266	R45	Rhizosphere	DNA	SEN1	BM	3	939	28	NA	8_sols	No	Africa	2007
+384	E54	Endosphere	DNA	SEN2	BM	3	763	9	9	8_sols	No	Africa	2007
+382	E52	Endosphere	DNA	SEN2	BM	1	196	8	NA	8_sols	No	Africa	2007
+383	E53	Endosphere	DNA	SEN2	BM	2	166	10	NA	8_sols	No	Africa	2007
+117	R52c	Rhizosphere	cDNA	SEN2	BM	1	2057	81	81	8_sols	No	Africa	2007
+119	R54c	Rhizosphere	cDNA	SEN2	BM	3	2822	59	59	8_sols	No	Africa	2007
+118	R53c	Rhizosphere	cDNA	SEN2	BM	2	1533	52	52	8_sols	No	Africa	2007
+273	R52	Rhizosphere	DNA	SEN2	BM	1	9493	355	282	8_sols	No	Africa	2007
+274	R53	Rhizosphere	DNA	SEN2	BM	2	10209	361	282	8_sols	No	Africa	2007
+275	R54	Rhizosphere	DNA	SEN2	BM	3	9225	328	262	8_sols	No	Africa	2007
+56	E110	Endosphere	DNA	FR2	BR	2	202	15	15	No	No	Europe	
+55	E109	Endosphere	DNA	FR2	BR	1	236	10	10	No	No	Europe	
+57	E111	Endosphere	DNA	FR2	BR	3	138	8	NA	No	No	Europe	
+329	R110	Rhizosphere	DNA	FR2	BR	2	15416	376	250	No	No	Europe	
+330	R111	Rhizosphere	DNA	FR2	BR	3	3410	183	167	No	No	Europe	
+328	R109	Rhizosphere	DNA	FR2	BR	1	2127	99	96	No	No	Europe	
+37	E91	Endosphere	DNA	FR2	CH	1	128	5	NA	No	No	Europe	1959
+38	E92	Endosphere	DNA	FR2	CH	2	90	6	NA	No	No	Europe	1959
+39	E93	Endosphere	DNA	FR2	CH	3	182	9	NA	No	No	Europe	1959
+311	R91	Rhizosphere	DNA	FR2	CH	1	16755	406	271	No	8_geno	Europe	1959
+312	R92	Rhizosphere	DNA	FR2	CH	2	9171	280	223	No	8_geno	Europe	1959
+313	R93	Rhizosphere	DNA	FR2	CH	3	5586	230	194	No	8_geno	Europe	1959
+19	E73	Endosphere	DNA	FR2	CP	1	376	25	25	No	No	Europe	
+21	E75	Endosphere	DNA	FR2	CP	3	244	15	15	No	No	Europe	
+20	E74	Endosphere	DNA	FR2	CP	2	74	8	NA	No	No	Europe	
+294	R73	Rhizosphere	DNA	FR2	CP	1	2840	96	94	No	No	Europe	
+296	R75	Rhizosphere	DNA	FR2	CP	3	1770	88	87	No	No	Europe	
+295	R74	Rhizosphere	DNA	FR2	CP	2	3366	88	81	No	No	Europe	
+28	E82	Endosphere	DNA	IT2	CP	1	309	8	8	No	No	Europe	
+29	E83	Endosphere	DNA	IT2	CP	2	126	8	NA	No	No	Europe	
+30	E84	Endosphere	DNA	IT2	CP	3	127	11	NA	No	No	Europe	
+304	R83	Rhizosphere	DNA	IT2	CP	2	14659	509	335	No	No	Europe	
+303	R82	Rhizosphere	DNA	IT2	CP	1	12156	456	320	No	No	Europe	
+305	R84	Rhizosphere	DNA	IT2	CP	3	13060	438	312	No	No	Europe	
+42	E96	Endosphere	DNA	FR2	CT	3	1052	19	17	No	No	Europe	1949
+41	E95	Endosphere	DNA	FR2	CT	2	1168	20	16	No	No	Europe	1949
+40	E94	Endosphere	DNA	FR2	CT	1	627	12	10	No	No	Europe	1949
+315	R96	Rhizosphere	DNA	FR2	CT	3	11404	340	250	No	8_geno	Europe	1949
+314	R94	Rhizosphere	DNA	FR2	CT	1	3278	178	162	No	8_geno	Europe	1949
+52	E106	Endosphere	DNA	FR2	CV	1	99	7	NA	No	No	Europe	
+53	E107	Endosphere	DNA	FR2	CV	2	71	8	NA	No	No	Europe	
+54	E108	Endosphere	DNA	FR2	CV	3	193	11	NA	No	No	Europe	
+326	R107	Rhizosphere	DNA	FR2	CV	2	13615	433	288	No	No	Europe	
+327	R108	Rhizosphere	DNA	FR2	CV	3	1944	102	101	No	No	Europe	
+325	R106	Rhizosphere	DNA	FR2	CV	1	1036	65	65	No	No	Europe	
+43	E97	Endosphere	DNA	FR2	CY	1	49	5	NA	No	No	Europe	1933
+44	E98	Endosphere	DNA	FR2	CY	2	149	8	NA	No	No	Europe	1933
+45	E99	Endosphere	DNA	FR2	CY	3	179	10	NA	No	No	Europe	1933
+318	R99	Rhizosphere	DNA	FR2	CY	3	11103	366	267	No	8_geno	Europe	1933
+316	R97	Rhizosphere	DNA	FR2	CY	1	10757	275	209	No	8_geno	Europe	1933
+317	R98	Rhizosphere	DNA	FR2	CY	2	7832	264	206	No	8_geno	Europe	1933
+49	E103	Endosphere	DNA	FR2	MH	1	79	7	NA	No	No	Europe	
+50	E104	Endosphere	DNA	FR2	MH	2	76	5	NA	No	No	Europe	
+51	E105	Endosphere	DNA	FR2	MH	3	169	10	NA	No	No	Europe	
+322	R103	Rhizosphere	DNA	FR2	MH	1	14219	342	248	No	No	Europe	
+323	R104	Rhizosphere	DNA	FR2	MH	2	2298	73	72	No	No	Europe	
+324	R105	Rhizosphere	DNA	FR2	MH	3	656	43	NA	No	No	Europe	
+171	E67c	Endosphere	cDNA	CAM1	RB	1	872	35	34	8_sols	No	Africa	2012
+13	E67	Endosphere	DNA	CAM1	RB	1	403	18	18	8_sols	No	Africa	2012
+15	E69	Endosphere	DNA	CAM1	RB	3	277	16	16	8_sols	No	Africa	2012
+14	E68	Endosphere	DNA	CAM1	RB	2	175	10	NA	8_sols	No	Africa	2012
+133	R68c	Rhizosphere	cDNA	CAM1	RB	2	8373	289	246	8_sols	No	Africa	2012
+132	R67c	Rhizosphere	cDNA	CAM1	RB	1	5648	245	219	8_sols	No	Africa	2012
+134	R69c	Rhizosphere	cDNA	CAM1	RB	3	7957	253	211	8_sols	No	Africa	2012
+288	R67	Rhizosphere	DNA	CAM1	RB	1	11960	407	301	8_sols	No	Africa	2012
+289	R68	Rhizosphere	DNA	CAM1	RB	2	9697	336	254	8_sols	No	Africa	2012
+290	R69	Rhizosphere	DNA	CAM1	RB	3	6231	236	194	8_sols	No	Africa	2012
+4	E58	Endosphere	DNA	CAM2	RB	1	736	37	31	8_sols	No	Africa	2012
+6	E60	Endosphere	DNA	CAM2	RB	3	1336	36	31	8_sols	No	Africa	2012
+5	E59	Endosphere	DNA	CAM2	RB	2	360	17	17	8_sols	No	Africa	2012
+123	R58c	Rhizosphere	cDNA	CAM2	RB	1	2085	68	67	8_sols	No	Africa	2012
+124	R59c	Rhizosphere	cDNA	CAM2	RB	2	206	12	NA	8_sols	No	Africa	2012
+125	R60c	Rhizosphere	cDNA	CAM2	RB	3	0	0	NA	8_sols	No	Africa	2012
+281	R60	Rhizosphere	DNA	CAM2	RB	3	11659	348	260	8_sols	No	Africa	2012
+280	R59	Rhizosphere	DNA	CAM2	RB	2	13596	314	229	8_sols	No	Africa	2012
+279	R58	Rhizosphere	DNA	CAM2	RB	1	10830	294	216	8_sols	No	Africa	2012
+141	E6c	Endosphere	cDNA	FR1	RB	3	668	32	28	8_sols	No	Europe	2012
+140	E5c	Endosphere	cDNA	FR1	RB	2	261	19	19	8_sols	No	Europe	2012
+139	E4c	Endosphere	cDNA	FR1	RB	1	99	10	NA	8_sols	No	Europe	2012
+334	E4	Endosphere	DNA	FR1	RB	1	59	2	NA	8_sols	No	Europe	2012
+335	E5	Endosphere	DNA	FR1	RB	2	98	3	NA	8_sols	No	Europe	2012
+336	E6	Endosphere	DNA	FR1	RB	3	102	6	NA	8_sols	No	Europe	2012
+69	R4c	Rhizosphere	cDNA	FR1	RB	1	10264	378	296	8_sols	No	Europe	2012
+71	R6c	Rhizosphere	cDNA	FR1	RB	3	13919	450	295	8_sols	No	Europe	2012
+70	R5c	Rhizosphere	cDNA	FR1	RB	2	8789	340	258	8_sols	No	Europe	2012
+226	R5	Rhizosphere	DNA	FR1	RB	2	18487	593	375	8_sols	No	Europe	2012
+227	R6	Rhizosphere	DNA	FR1	RB	3	11704	420	312	8_sols	No	Europe	2012
+225	R4	Rhizosphere	DNA	FR1	RB	1	761	44	NA	8_sols	No	Europe	2012
+146	E14c	Endosphere	cDNA	FR2	RB	2	3497	91	66	8_sols	No	Europe	2012
+147	E15c	Endosphere	cDNA	FR2	RB	3	800	38	32	8_sols	No	Europe	2012
+145	E13c	Endosphere	cDNA	FR2	RB	1	858	32	31	8_sols	No	Europe	2012
+343	E13	Endosphere	DNA	FR2	RB	1	94	8	NA	8_sols	No	Europe	2012
+344	E14	Endosphere	DNA	FR2	RB	2	78	6	NA	8_sols	No	Europe	2012
+345	E15	Endosphere	DNA	FR2	RB	3	0	0	NA	8_sols	No	Europe	2012
+80	R15c	Rhizosphere	cDNA	FR2	RB	3	15529	377	246	8_sols	No	Europe	2012
+78	R13c	Rhizosphere	cDNA	FR2	RB	1	9818	234	184	8_sols	No	Europe	2012
+79	R14c	Rhizosphere	cDNA	FR2	RB	2	1295	48	48	8_sols	No	Europe	2012
+234	R13	Rhizosphere	DNA	FR2	RB	1	14234	417	292	8_sols	8_geno	Europe	2012
+236	R15	Rhizosphere	DNA	FR2	RB	3	11771	400	273	8_sols	8_geno	Europe	2012
+235	R14	Rhizosphere	DNA	FR2	RB	2	9225	314	249	8_sols	8_geno	Europe	2012
+155	E24c	Endosphere	cDNA	IT1	RB	3	1076	57	49	8_sols	No	Europe	2012
+154	E22c	Endosphere	cDNA	IT1	RB	1	2166	55	44	8_sols	No	Europe	2012
+352	E22	Endosphere	DNA	IT1	RB	1	417	4	4	8_sols	No	Europe	2012
+353	E23	Endosphere	DNA	IT1	RB	2	121	5	NA	8_sols	No	Europe	2012
+354	E24	Endosphere	DNA	IT1	RB	3	18	2	NA	8_sols	No	Europe	2012
+89	R24c	Rhizosphere	cDNA	IT1	RB	3	14830	335	250	8_sols	No	Europe	2012
+88	R23c	Rhizosphere	cDNA	IT1	RB	2	2620	40	40	8_sols	No	Europe	2012
+87	R22c	Rhizosphere	cDNA	IT1	RB	1	1591	40	38	8_sols	No	Europe	2012
+244	R23	Rhizosphere	DNA	IT1	RB	2	11249	383	287	8_sols	No	Europe	2012
+243	R22	Rhizosphere	DNA	IT1	RB	1	244	17	NA	8_sols	No	Europe	2012
+245	R24	Rhizosphere	DNA	IT1	RB	3	125	14	NA	8_sols	No	Europe	2012
+162	E33c	Endosphere	cDNA	IT2	RB	3	1631	74	60	8_sols	No	Europe	2012
+161	E32c	Endosphere	cDNA	IT2	RB	2	1520	64	50	8_sols	No	Europe	2012
+160	E31c	Endosphere	cDNA	IT2	RB	1	663	29	27	8_sols	No	Europe	2012
+363	E33	Endosphere	DNA	IT2	RB	3	626	16	15	8_sols	No	Europe	2012
+361	E31	Endosphere	DNA	IT2	RB	1	0	0	NA	8_sols	No	Europe	2012
+362	E32	Endosphere	DNA	IT2	RB	2	20	1	NA	8_sols	No	Europe	2012
+98	R33c	Rhizosphere	cDNA	IT2	RB	3	8589	339	267	8_sols	No	Europe	2012
+96	R31c	Rhizosphere	cDNA	IT2	RB	1	19685	384	255	8_sols	No	Europe	2012
+97	R32c	Rhizosphere	cDNA	IT2	RB	2	6339	209	183	8_sols	No	Europe	2012
+254	R33	Rhizosphere	DNA	IT2	RB	3	12043	436	318	8_sols	No	Europe	2012
+253	R32	Rhizosphere	DNA	IT2	RB	2	11208	441	316	8_sols	No	Europe	2012
+252	R31	Rhizosphere	DNA	IT2	RB	1	10175	410	313	8_sols	No	Europe	2012
+165	E40c	Endosphere	cDNA	SEN1	RB	1	1062	51	44	8_sols	No	Africa	2012
+370	E40	Endosphere	DNA	SEN1	RB	1	74	5	NA	8_sols	No	Africa	2012
+371	E41	Endosphere	DNA	SEN1	RB	2	111	4	NA	8_sols	No	Africa	2012
+372	E42	Endosphere	DNA	SEN1	RB	3	41	2	NA	8_sols	No	Africa	2012
+107	R42c	Rhizosphere	cDNA	SEN1	RB	3	2531	34	34	8_sols	No	Africa	2012
+105	R40c	Rhizosphere	cDNA	SEN1	RB	1	5	1	NA	8_sols	No	Africa	2012
+106	R41c	Rhizosphere	cDNA	SEN1	RB	2	0	0	NA	8_sols	No	Africa	2012
+261	R40	Rhizosphere	DNA	SEN1	RB	1	2447	45	44	8_sols	No	Africa	2012
+263	R42	Rhizosphere	DNA	SEN1	RB	3	1639	42	42	8_sols	No	Africa	2012
+262	R41	Rhizosphere	DNA	SEN1	RB	2	522	36	NA	8_sols	No	Africa	2012
+379	E49	Endosphere	DNA	SEN2	RB	1	134	7	NA	8_sols	No	Africa	2012
+380	E50	Endosphere	DNA	SEN2	RB	2	98	5	NA	8_sols	No	Africa	2012
+381	E51	Endosphere	DNA	SEN2	RB	3	77	2	NA	8_sols	No	Africa	2012
+114	R49c	Rhizosphere	cDNA	SEN2	RB	1	10809	301	230	8_sols	No	Africa	2012
+115	R50c	Rhizosphere	cDNA	SEN2	RB	2	2561	127	121	8_sols	No	Africa	2012
+116	R51c	Rhizosphere	cDNA	SEN2	RB	3	1404	45	45	8_sols	No	Africa	2012
+270	R49	Rhizosphere	DNA	SEN2	RB	1	10629	413	314	8_sols	No	Africa	2012
+272	R51	Rhizosphere	DNA	SEN2	RB	3	9368	356	279	8_sols	No	Africa	2012
+271	R50	Rhizosphere	DNA	SEN2	RB	2	9033	320	256	8_sols	No	Africa	2012
+46	E100	Endosphere	DNA	FR2	SS	1	64	4	NA	No	No	Europe	1988
+47	E101	Endosphere	DNA	FR2	SS	2	132	9	NA	No	No	Europe	1988
+48	E102	Endosphere	DNA	FR2	SS	3	144	7	NA	No	No	Europe	1988
+320	R101	Rhizosphere	DNA	FR2	SS	2	14510	407	280	No	8_geno	Europe	1988
+319	R100	Rhizosphere	DNA	FR2	SS	1	13795	387	278	No	8_geno	Europe	1988
+321	R102	Rhizosphere	DNA	FR2	SS	3	11274	338	241	No	8_geno	Europe	1988
+24	E78	Endosphere	DNA	FR2	TM	3	286	10	10	No	No	Europe	1907
+22	E76	Endosphere	DNA	FR2	TM	1	92	6	NA	No	No	Europe	1907
+23	E77	Endosphere	DNA	FR2	TM	2	190	13	NA	No	No	Europe	1907
+297	R76	Rhizosphere	DNA	FR2	TM	1	18234	505	315	No	8_geno	Europe	1907
+298	R77	Rhizosphere	DNA	FR2	TM	2	15660	402	271	No	8_geno	Europe	1907
+299	R78	Rhizosphere	DNA	FR2	TM	3	18208	435	262	No	8_geno	Europe	1907
+33	E87	Endosphere	DNA	IT2	TM	3	346	19	19	No	No	Europe	1907
+32	E86	Endosphere	DNA	IT2	TM	2	660	20	18	No	No	Europe	1907
+31	E85	Endosphere	DNA	IT2	TM	1	85	6	NA	No	No	Europe	1907
+307	R86	Rhizosphere	DNA	IT2	TM	2	12855	464	323	No	No	Europe	1907
+308	R87	Rhizosphere	DNA	IT2	TM	3	10888	395	305	No	No	Europe	1907
+306	R85	Rhizosphere	DNA	IT2	TM	1	3644	189	180	No	No	Europe	1907
