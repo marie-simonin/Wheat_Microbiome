@@ -9,9 +9,9 @@ output: html_document
   2. Processing of 18S rRNA gene dataset from raw data
 
 
-#1. Processing of 16S rRNA gene dataset from raw data
-##In Qiime2
-##Import fastq files in Qiime2
+# 1. Processing of 16S rRNA gene dataset from raw data
+## In Qiime2
+## Import fastq files in Qiime2
 ```{r}
 source activate qiime2-2019.1
 
@@ -22,7 +22,7 @@ qiime tools import \
   --output-path 16S-demux-paired-end.qza
 ```
 
-##Visualize and verify sequence quality (total number of sequences = 14 799 693). Open qzv file on Qiime2View online
+## Visualize and verify sequence quality (total number of sequences = 14 799 693). Open qzv file on Qiime2View online
 ```{r}
 qiime demux summarize \
   --i-data 16S-demux-paired-end.qza \
@@ -30,7 +30,7 @@ qiime demux summarize \
 ```
 
 
-##Sequence Denoising with DADA2 (after DADA2, number of SV = 24515 and total number of sequences = 5 793 329)
+## Sequence Denoising with DADA2 (after DADA2, number of SV = 24515 and total number of sequences = 5 793 329)
 ```{r}
 qiime dada2 denoise-paired \
   --i-demultiplexed-seqs 16S-demux-paired-end.qza \
@@ -73,23 +73,23 @@ qiime tools export \
 ```
 
 
-##In Qiime 1
-##convert biom file in txt file in Qiime 1
+## In Qiime 1
+## convert biom file in txt file in Qiime 1
 ```{r}
 source activate qiime1
 biom convert -i 16S-SV-table.biom -o 16S-SV-table.txt --to-tsv --table-type="OTU table"
 ```
 
-##Assign taxonomy with Qiime1 using SILVA 132 database
+## Assign taxonomy with Qiime1 using SILVA 132 database
 ```{r}
 assign_taxonomy.py -i 16S_rep-seq.fasta.txt -r silva_132_99_16S.fna -t 16S_consensus_taxonomy_7_levels.txt
 ```
 
-##Remove Chloroplast, Mitochondria, Eukaryotic SVs and SVs with low abundance (present in only 1 sample and/or with less than 10 total observation count) from SV table and rep-seq fasta file
+## Remove Chloroplast, Mitochondria, Eukaryotic SVs and SVs with low abundance (present in only 1 sample and/or with less than 10 total observation count) from SV table and rep-seq fasta file
 
-##Remove Contaminant SV using negative controls and Decontam package in R
+## Remove Contaminant SV using negative controls and Decontam package in R
 
-##Perform rarefaction on filtered SV table (non-microbial, low abundance sequences and contaminants removed) and export the results as a txt file
+## Perform rarefaction on filtered SV table (non-microbial, low abundance sequences and contaminants removed) and export the results as a txt file
 ```{r}
 single_rarefaction.py -i 16S-SV-table-filtered.biom -o 18S-SV-table-filtered-rarefied1018.biom -d 1018
 
@@ -99,8 +99,8 @@ biom convert -i 16S-SV-table-filtered-rarefied1018.biom -o 16S-SV-table-filtered
 ```
 
 
-##In Qiime2
-##Import filtered rep-seq fasta file (non-microbial, low abundance sequences and contaminants removed) in Qiime2 to make phylogenetic tree
+## In Qiime2
+## Import filtered rep-seq fasta file (non-microbial, low abundance sequences and contaminants removed) in Qiime2 to make phylogenetic tree
 ```{r}
 source activate qiime2-2019.1
 qiime tools import \
@@ -109,7 +109,7 @@ qiime tools import \
   --type 'FeatureData[Sequence]'
 ```
 
-##Make phylogenic tree in Qiime2
+## Make phylogenic tree in Qiime2
 ```{r}
 qiime phylogeny align-to-tree-mafft-fasttree \
   --i-sequences 16S-rep-seqs-filtered.qza \
@@ -119,7 +119,7 @@ qiime phylogeny align-to-tree-mafft-fasttree \
   --o-rooted-tree rooted-16S-tree-allSVs.qza
 ```
 
-##Export trees
+## Export trees
 ```{r}
 qiime tools export \
   --input-path unrooted-16S-tree-allSVs.qza \
@@ -136,9 +136,9 @@ qiime tools export \
 
 ######################################################################################
 
-#2. Processing of 18S rRNA gene dataset from raw data
-##In Qiime2
-##Import fastq files in Qiime2
+# 2. Processing of 18S rRNA gene dataset from raw data
+## In Qiime2
+## Import fastq files in Qiime2
 ```{r}
 source activate qiime2-2019.1
 
@@ -149,7 +149,7 @@ qiime tools import \
   --output-path 18S-demux-paired-end.qza
 ```
 
-##Visualize and verify sequence quality (total number of sequences = 14 799 693). Open qzv file on Qiime2View online
+## Visualize and verify sequence quality (total number of sequences = 14 799 693). Open qzv file on Qiime2View online
 ```{r}
 qiime demux summarize \
   --i-data 18S-demux-paired-end.qza \
@@ -157,7 +157,7 @@ qiime demux summarize \
 ```
 
 
-##Sequence Denoising with DADA2 (after DADA2, number of SV = 24515 and total number of sequences = 5 793 329)
+## Sequence Denoising with DADA2 (after DADA2, number of SV = 24515 and total number of sequences = 5 793 329)
 ```{r}
 qiime dada2 denoise-paired \
   --i-demultiplexed-seqs 18S-demux-paired-end.qza \
@@ -200,23 +200,23 @@ qiime tools export \
 ```
 
 
-##In Qiime 1
-##convert biom file in txt file in Qiime 1
+## In Qiime 1
+## convert biom file in txt file in Qiime 1
 ```{r}
 source activate qiime1
 biom convert -i 18S-SV-table.biom -o 18S-SV-table.txt --to-tsv --table-type="OTU table"
 ```
 
-##Assign taxonomy with Qiime1 using Protist Ribosomal Reference database (PR2, Guillou et al. 2013) 
+## Assign taxonomy with Qiime1 using Protist Ribosomal Reference database (PR2, Guillou et al. 2013) 
 ```{r}
 assign_taxonomy.py -i 18S_rep-seq.fasta.txt -r pr2_version_4.11.1_mothur.fasta -t pr2_version_4.11.1_mothur_tax.txt
 ```
 
 ##Filter Chloroplast, Mitochondria, Chloroplastida and Animalia SVs and SVs with low abundance (present in only 1 sample and/or with less than 10 total observation count) from SV table and rep-seq fasta file
 
-##Remove Contaminant SV using negative controls and Decontam package in R
+## Remove Contaminant SV using negative controls and Decontam package in R
 
-##Perform rarefaction on filtered SV table (non-microbial, low abundance sequences and contaminants removed) and export the results as a txt file
+## Perform rarefaction on filtered SV table (non-microbial, low abundance sequences and contaminants removed) and export the results as a txt file
 ```{r}
 single_rarefaction.py -i 18S-SV-table-filtered.biom -o 18S-SV-table-filtered-rarefied1127.biom -d 1127
 
@@ -226,8 +226,8 @@ biom convert -i 18S-SV-table-filtered-rarefied1127.biom -o 18S-SV-table-filtered
 ```
 
 
-##In Qiime2
-##Import filtered rep-seq fasta file (non-microbial and low abundance sequences removed) in Qiime2 to make phylogenetic tree
+## In Qiime2
+## Import filtered rep-seq fasta file (non-microbial and low abundance sequences removed) in Qiime2 to make phylogenetic tree
 ```{r}
 source activate qiime2-2019.1
 qiime tools import \
@@ -236,7 +236,7 @@ qiime tools import \
   --type 'FeatureData[Sequence]'
 ```
 
-##Make phylogenic tree in Qiime2
+## Make phylogenic tree in Qiime2
 ```{r}
 qiime phylogeny align-to-tree-mafft-fasttree \
   --i-sequences 18S-rep-seqs-filtered.qza \
@@ -246,7 +246,7 @@ qiime phylogeny align-to-tree-mafft-fasttree \
   --o-rooted-tree rooted-18S-tree-allSVs.qza
 ```
 
-##Export trees
+## Export trees
 ```{r}
 qiime tools export \
   --input-path unrooted-18S-tree-allSVs.qza \
