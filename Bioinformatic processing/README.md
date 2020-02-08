@@ -2,16 +2,16 @@
 title: "Wheat Microbiome paper - Bioinformatic processing"
 author: "Marie Simonin"
 date: "7/31/2019"
-output: html_document
 ---
 
+#Code for Bioinformatic Processing of Metabarcoding Data (16S and 18S rRNA genes)
   1. Processing of 16S rRNA gene dataset from raw data
   2. Processing of 18S rRNA gene dataset from raw data
 
 
 # 1. Processing of 16S rRNA gene dataset from raw data
-## In Qiime2
-## Import fastq files in Qiime2
+### In Qiime2
+### Import fastq files in Qiime2
 ```{r}
 source activate qiime2-2019.1
 
@@ -137,8 +137,8 @@ qiime tools export \
 ######################################################################################
 
 # 2. Processing of 18S rRNA gene dataset from raw data
-## In Qiime2
-## Import fastq files in Qiime2
+### In Qiime2
+### Import fastq files in Qiime2
 ```{r}
 source activate qiime2-2019.1
 
