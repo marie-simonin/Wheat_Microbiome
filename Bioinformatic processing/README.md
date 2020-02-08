@@ -4,7 +4,7 @@ author: "Marie Simonin"
 date: "7/31/2019"
 ---
 
-# Code for Bioinformatic Processing of Metabarcoding Data (16S and 18S rRNA genes)
+# Code for Bioinformatic Processing of Metabarcoding Data
   ## 1. Processing of 16S rRNA gene dataset from raw data
   ## 2. Processing of 18S rRNA gene dataset from raw data
 
